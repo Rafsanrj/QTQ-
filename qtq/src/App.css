@@ -1,0 +1,22 @@
+
+.div3{
+  color: white;
+  text-decoration: underline
+}
+.div5{
+  background-color: white;
+}
+#cnl-msg{
+
+  display: none;
+  color: yellow;
+}
+
+ul button{
+  text-decoration: none;
+  color: white;
+  text-align: center;
+  background-color: red; 
+  padding: 1px 10px;
+  
+}
